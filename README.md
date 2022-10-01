@@ -1,2 +1,2 @@
 # Jquery-Calculator
-Devoloping a calculator with HTML, CSS and jQuery
+Developing a calculator with HTML, CSS and jQuery
